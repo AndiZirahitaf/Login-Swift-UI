@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "151711-apps-feature-best-zoom-backgrounds-fun-virtual-backgrounds-for-zoom-meetings-image1-n9vej1hyuz.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
